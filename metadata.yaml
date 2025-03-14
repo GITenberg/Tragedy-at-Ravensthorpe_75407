@@ -1,0 +1,35 @@
+_repo: Tragedy-at-Ravensthorpe_75407
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Connington, J. J.
+    alias: Stewart, Alfred W. (Alfred Walter)
+    birthdate: 1880
+    deathdate: 1947
+    gutenberg_agent_id: '52959'
+    url: http://www.gutenberg.org/2009/agents/52959
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Walter_Stewart
+description: ''
+gutenberg_issued: '2025-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75407'
+language: en
+pgterms:marc905: 20250127205611connington
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Brian Raiter
+publication_note: '  $aNew York, NY :$bGrosset & Dunlap, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Police -- England -- Fiction'
+- !lcsh 'Murder -- Investigation -- Fiction'
+- !lcsh 'Art thefts -- Fiction'
+- !lcsh 'Country homes -- England -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Tragedy at Ravensthorpe
+url: http://www.gutenberg.org/ebooks/75407
