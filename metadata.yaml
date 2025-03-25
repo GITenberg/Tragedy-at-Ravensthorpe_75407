@@ -1,5 +1,8 @@
 _repo: Tragedy-at-Ravensthorpe_75407
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75407-h/images/cover.jpg
 creator:
   author:
     agent_name: Connington, J. J.
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52959
     wikipedia: https://en.wikipedia.org/wiki/Alfred_Walter_Stewart
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75407#Tragedy-at-Ravensthorpe
 gutenberg_issued: '2025-02-18'
 gutenberg_type: Text
 identifiers:
